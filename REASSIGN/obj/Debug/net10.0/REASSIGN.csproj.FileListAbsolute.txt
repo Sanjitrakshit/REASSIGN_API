@@ -1,0 +1,15 @@
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/bin/Debug/net10.0/REASSIGN
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/bin/Debug/net10.0/REASSIGN.deps.json
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/bin/Debug/net10.0/REASSIGN.runtimeconfig.json
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/bin/Debug/net10.0/REASSIGN.dll
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/bin/Debug/net10.0/REASSIGN.pdb
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.AssemblyInfoInputs.cache
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.AssemblyInfo.cs
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.csproj.CoreCompileInputs.cache
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.sourcelink.json
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.dll
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/refint/REASSIGN.dll
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.pdb
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/REASSIGN.genruntimeconfig.cache
+/Users/sanjitrakshit/REASSIGN_API/REASSIGN/obj/Debug/net10.0/ref/REASSIGN.dll

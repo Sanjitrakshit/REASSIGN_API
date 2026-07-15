@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REASSIGN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96019a89e255a746cf8c2dd5039f097ed706ccf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb09d5b81a235bfa49ca43eb5fa008468ffeee10")]
 [assembly: System.Reflection.AssemblyProductAttribute("REASSIGN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REASSIGN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
